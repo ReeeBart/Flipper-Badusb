@@ -1,6 +1,6 @@
 # Bad USB on Flipper Zero
 
-[![Flipper Zero](bit.ly/3lzPUKg)](https://flipperzero.one/)
+[![Flipper Zero](https://github.com/ReeeBart/Flipper-Badusb/blob/main/Flipper.png?raw=true)](https://flipperzero.one/)
 
 This repository contains a tutorial and sample code for using the Flipper Zero device as a Bad USB attack tool. 
 
